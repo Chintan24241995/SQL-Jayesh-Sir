@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,Region_ID,Category,Q1_Sales,Q2_Sales,Q3_Sales,Q4_Sales
+CUST-1101,Frank Jones,R1_North,Clothing,509,883,888,546
+CUST-1102,Frank Wing,R2_South,Home Decor,710,375,393,871
+CUST-1103,Bob Wing,R4_West,Clothing,476,202,640,310
+CUST-1104,Danny Walker,R3_East,Home Decor,918,649,656,165
+CUST-1105,Bob Nelson,R3_East,Home Decor,885,655,514,642
+CUST-1106,Frank Smith,R1_North,Home Decor,290,513,631,575
+CUST-1107,Danny Sparrow,R4_West,Clothing,364,429,350,257
+CUST-1108,Trish Temple,R4_West,Clothing,584,742,303,599
+CUST-1109,Eve Miller,R2_South,Home Decor,872,863,599,460
+CUST-1110,Jack Temple,R4_West,Furniture,467,307,650,888
+CUST-1111,Jack Temple,R4_West,Office Supplies,181,781,222,319
+CUST-1112,Foggy Davis,R1_North,Office Supplies,819,208,862,695
+CUST-1113,Bob Wright,R4_West,Office Supplies,434,876,445,563
+CUST-1114,Bob Murdock,R3_East,Clothing,454,277,166,400
+CUST-1115,Karen Page,R1_North,Clothing,578,885,790,908
+CUST-1116,Frank Page,R1_North,Furniture,626,870,366,930
+CUST-1117,Trish Rand,R2_South,Office Supplies,435,264,210,290
+CUST-1118,Frank Page,R4_West,Office Supplies,293,358,765,423
+CUST-1119,Frank Hunt,R2_South,Home Decor,573,675,191,565
+CUST-1120,David Hunt,R3_East,Clothing,168,670,174,757
+CUST-1121,David Brown,R1_North,Office Supplies,167,701,188,888
+CUST-1122,Charlie Wing,R1_North,Furniture,918,386,280,188
+CUST-1123,Trish Walker,R1_North,Furniture,739,430,647,178
+CUST-1124,Eve Wing,R3_East,Office Supplies,520,508,378,626
+CUST-1125,Jack Wright,R3_East,Clothing,324,350,257,467
+CUST-1126,Alice Davis,R2_South,Furniture,343,907,321,394
+CUST-1127,Ian Cage,R2_South,Home Decor,651,427,584,897
+CUST-1128,Jessica Jones,R2_South,Furniture,262,384,627,846
+CUST-1129,Claire Jones,R4_West,Electronics,263,643,251,421
+CUST-1130,Matt Malcolm,R1_North,Electronics,371,153,673,589
+CUST-1131,Danny Rand,R1_North,Clothing,827,815,424,897
+CUST-1132,Karen Castle,R2_South,Office Supplies,793,591,762,388
+CUST-1133,Claire Miller,R1_North,Clothing,413,178,193,526
+CUST-1134,Alice Hunt,R2_South,Clothing,204,258,166,415
+CUST-1135,Claire Brown,R4_West,Clothing,792,759,479,508
+CUST-1136,Foggy Rand,R4_West,Clothing,949,876,718,489
+CUST-1137,Danny Jones,R3_East,Home Decor,927,224,646,538
+CUST-1138,Jessica Jones,R4_West,Home Decor,607,295,161,726
+CUST-1139,Matt Jones,R2_South,Furniture,311,277,467,838
+CUST-1140,Trish Hopper,R4_West,Electronics,529,191,741,152
+CUST-1141,Charlie Rand,R3_East,Clothing,236,505,365,578
+CUST-1142,Jessica Page,R1_North,Furniture,204,190,488,291
+CUST-1143,Danny Murdock,R2_South,Electronics,625,183,925,525
+CUST-1144,Colleen Wright,R1_North,Office Supplies,949,166,810,819
+CUST-1145,Charlie Walker,R3_East,Home Decor,327,826,230,473
+CUST-1146,Danny Davis,R3_East,Electronics,540,302,876,295
+CUST-1147,Jack Hopper,R3_East,Office Supplies,498,527,634,442
+CUST-1148,Claire Hopper,R1_North,Electronics,157,737,523,814
+CUST-1149,Luke Temple,R1_North,Home Decor,462,748,859,581
+CUST-1150,Matt Nelson,R1_North,Home Decor,908,778,349,854
+CUST-1151,David Sparrow,R1_North,Furniture,592,491,686,734
+CUST-1152,Charlie Malcolm,R3_East,Clothing,916,176,615,548
+CUST-1153,Matt Wing,R3_East,Electronics,477,436,238,493
+CUST-1154,Danny Miller,R2_South,Electronics,203,795,417,289
+CUST-1155,Danny Jones,R2_South,Office Supplies,910,880,804,336
+CUST-1156,Danny Hunt,R1_North,Home Decor,388,317,720,210
+CUST-1157,Helen Temple,R4_West,Electronics,378,759,638,529
+CUST-1158,Luke Walker,R4_West,Home Decor,728,417,687,859
+CUST-1159,Jack Malcolm,R3_East,Electronics,200,898,196,589
+CUST-1160,Eve Wright,R3_East,Furniture,758,604,437,468
+CUST-1161,Foggy Jones,R3_East,Clothing,753,834,927,451
+CUST-1162,Matt Wright,R2_South,Electronics,413,550,165,493
+CUST-1163,Eve Smith,R2_South,Home Decor,567,625,860,160
+CUST-1164,Frank Wright,R3_East,Furniture,245,851,550,211
+CUST-1165,Frank Miller,R3_East,Electronics,237,783,943,375
+CUST-1166,Karen Malcolm,R3_East,Office Supplies,227,707,235,302
+CUST-1167,Charlie Walker,R4_West,Clothing,437,725,399,860
+CUST-1168,Helen Davis,R2_South,Electronics,269,279,540,713
+CUST-1169,David Wright,R4_West,Furniture,640,512,931,921
+CUST-1170,Bob Nelson,R4_West,Office Supplies,601,854,484,720
+CUST-1171,Karen Miller,R3_East,Furniture,649,842,778,733
+CUST-1172,Danny Wright,R3_East,Furniture,314,441,668,809
+CUST-1173,Claire Wright,R1_North,Office Supplies,331,520,286,724
+CUST-1174,Trish Jones,R1_North,Furniture,618,943,837,459
+CUST-1175,Danny Page,R4_West,Office Supplies,884,178,647,392
+CUST-1176,Helen Walker,R2_South,Electronics,156,298,876,642
+CUST-1177,Matt Cage,R3_East,Office Supplies,479,928,626,515
+CUST-1178,Eve Wright,R3_East,Office Supplies,924,445,743,479
+CUST-1179,David Walker,R4_West,Clothing,822,160,372,256
+CUST-1180,Foggy Smith,R1_North,Office Supplies,300,661,521,375
+CUST-1181,Foggy Temple,R2_South,Office Supplies,234,825,551,367
+CUST-1182,Luke Rand,R1_North,Electronics,296,262,592,902
+CUST-1183,Alice Jones,R1_North,Clothing,773,336,639,655
+CUST-1184,Frank Davis,R1_North,Home Decor,530,893,764,408
+CUST-1185,Karen Miller,R1_North,Electronics,697,376,422,923
+CUST-1186,Matt Page,R3_East,Electronics,434,459,675,666
+CUST-1187,Charlie Smith,R3_East,Home Decor,849,247,308,922
+CUST-1188,Frank Wing,R1_North,Office Supplies,231,204,301,203
+CUST-1189,Jack Davis,R2_South,Furniture,663,772,769,196
+CUST-1190,Jack Cage,R4_West,Clothing,858,813,337,876
+CUST-1191,Bob Murdock,R2_South,Furniture,672,907,247,838
+CUST-1192,Helen Jones,R2_South,Home Decor,895,555,280,670
+CUST-1193,Foggy Smith,R2_South,Electronics,535,218,320,248
+CUST-1194,Eve Malcolm,R1_North,Electronics,856,461,332,169
+CUST-1195,Claire Malcolm,R3_East,Clothing,620,438,513,902
+CUST-1196,Karen Rand,R2_South,Electronics,268,911,188,722
+CUST-1197,Frank Brown,R1_North,Electronics,545,697,676,639
+CUST-1198,Claire Davis,R2_South,Clothing,681,900,646,568
+CUST-1199,Luke Wing,R2_South,Clothing,410,297,665,839
+CUST-1200,Jessica Page,R1_North,Home Decor,405,616,498,211

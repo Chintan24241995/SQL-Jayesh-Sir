@@ -1,0 +1,101 @@
+Customer_ID,Customer_Segment,Loyalty_Tier,Credit_Score,Account_Created_Year
+CUST-1001,Consumer,Silver,793,2020
+CUST-1002,Small Business,Gold,696,2021
+CUST-1003,Home Office,Bronze,651,2020
+CUST-1004,Small Business,Gold,643,2022
+CUST-1005,Home Office,Bronze,784,2020
+CUST-1006,Corporate,Platinum,788,2021
+CUST-1007,Consumer,Bronze,651,2020
+CUST-1008,Small Business,Silver,674,2021
+CUST-1009,Consumer,Gold,745,2021
+CUST-1010,Home Office,Bronze,611,2020
+CUST-1011,Consumer,Bronze,590,2020
+CUST-1012,Consumer,Bronze,796,2019
+CUST-1013,Small Business,Bronze,681,2022
+CUST-1014,Corporate,Silver,846,2021
+CUST-1015,Consumer,Bronze,793,2019
+CUST-1016,Corporate,Bronze,758,2020
+CUST-1017,Home Office,Bronze,667,2022
+CUST-1018,Consumer,Gold,620,2019
+CUST-1019,Small Business,Bronze,655,2021
+CUST-1020,Home Office,Bronze,625,2019
+CUST-1021,Home Office,Bronze,739,2021
+CUST-1022,Small Business,Silver,659,2020
+CUST-1023,Consumer,Gold,665,2022
+CUST-1024,Consumer,Bronze,671,2022
+CUST-1025,Home Office,Bronze,727,2022
+CUST-1026,Consumer,Gold,740,2020
+CUST-1027,Corporate,Gold,781,2021
+CUST-1028,Small Business,Bronze,821,2020
+CUST-1029,Corporate,Gold,581,2022
+CUST-1030,Consumer,Platinum,804,2020
+CUST-1031,Home Office,Bronze,812,2020
+CUST-1032,Small Business,Gold,656,2020
+CUST-1033,Consumer,Gold,695,2021
+CUST-1034,Consumer,Silver,733,2019
+CUST-1035,Home Office,Bronze,682,2019
+CUST-1036,Home Office,Bronze,773,2020
+CUST-1037,Corporate,Gold,745,2019
+CUST-1038,Small Business,Platinum,669,2019
+CUST-1039,Small Business,Silver,753,2020
+CUST-1040,Home Office,Silver,701,2020
+CUST-1041,Corporate,Silver,722,2022
+CUST-1042,Small Business,Silver,685,2019
+CUST-1043,Home Office,Bronze,702,2021
+CUST-1044,Consumer,Bronze,588,2020
+CUST-1045,Small Business,Gold,841,2022
+CUST-1046,Corporate,Bronze,652,2021
+CUST-1047,Corporate,Gold,802,2019
+CUST-1048,Corporate,Bronze,620,2022
+CUST-1049,Consumer,Bronze,783,2020
+CUST-1050,Small Business,Bronze,843,2021
+CUST-1051,Small Business,Silver,757,2020
+CUST-1052,Consumer,Platinum,663,2019
+CUST-1053,Small Business,Bronze,690,2021
+CUST-1054,Consumer,Gold,830,2019
+CUST-1055,Consumer,Silver,586,2019
+CUST-1056,Consumer,Gold,663,2022
+CUST-1057,Corporate,Bronze,787,2020
+CUST-1058,Small Business,Gold,601,2021
+CUST-1059,Consumer,Gold,582,2019
+CUST-1060,Small Business,Bronze,706,2019
+CUST-1061,Corporate,Bronze,767,2021
+CUST-1062,Consumer,Gold,593,2019
+CUST-1063,Home Office,Platinum,591,2022
+CUST-1064,Corporate,Bronze,666,2022
+CUST-1065,Home Office,Gold,591,2022
+CUST-1066,Small Business,Platinum,604,2022
+CUST-1067,Small Business,Gold,822,2019
+CUST-1068,Corporate,Platinum,701,2021
+CUST-1069,Small Business,Gold,726,2021
+CUST-1070,Home Office,Silver,634,2021
+CUST-1071,Consumer,Bronze,817,2021
+CUST-1072,Consumer,Bronze,752,2020
+CUST-1073,Consumer,Gold,800,2021
+CUST-1074,Corporate,Gold,698,2020
+CUST-1075,Small Business,Bronze,762,2020
+CUST-1076,Home Office,Gold,661,2022
+CUST-1077,Small Business,Gold,790,2020
+CUST-1078,Small Business,Silver,729,2019
+CUST-1079,Small Business,Silver,616,2020
+CUST-1080,Consumer,Silver,638,2022
+CUST-1081,Home Office,Bronze,710,2020
+CUST-1082,Home Office,Bronze,781,2019
+CUST-1083,Small Business,Bronze,822,2019
+CUST-1084,Consumer,Bronze,614,2019
+CUST-1085,Consumer,Silver,672,2022
+CUST-1086,Home Office,Silver,786,2022
+CUST-1087,Consumer,Bronze,792,2021
+CUST-1088,Consumer,Gold,738,2022
+CUST-1089,Consumer,Bronze,603,2019
+CUST-1090,Corporate,Platinum,583,2019
+CUST-1091,Small Business,Platinum,799,2022
+CUST-1092,Home Office,Bronze,599,2020
+CUST-1093,Home Office,Silver,731,2022
+CUST-1094,Corporate,Bronze,629,2022
+CUST-1095,Small Business,Silver,756,2019
+CUST-1096,Home Office,Silver,675,2021
+CUST-1097,Consumer,Bronze,684,2019
+CUST-1098,Home Office,Silver,829,2021
+CUST-1099,Consumer,Bronze,696,2019
+CUST-1100,Corporate,Bronze,807,2022

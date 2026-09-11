@@ -1,0 +1,126 @@
+OrderID,OrderDate,Region,CustomerType,Category,Product,Quantity,UnitPrice,Discount,Returned
+1001,05-01-2024,East,Corporate,Technology,Wireless Mouse,4,25.5,0,No
+1002,06-01-2024,West,Consumer,Office Supplies,Mechanical Pencil Set,10,8,0.1,No
+1003,07-01-2024,Central,Home Office,Furniture,Ergonomic Chair,1,250,0.05,No
+1004,08-01-2024,South,Consumer,Technology,Bluetooth Speaker,2,45,0,Yes
+1005,09-01-2024,East,Corporate,Office Supplies,Gel Pens 12-Pack,5,12,0,No
+1006,10-01-2024,West,Consumer,Furniture,Standing Desk,1,450,0.15,No
+1007,11-01-2024,Central,Corporate,Technology,USB-C Hub,3,35,0,No
+1008,12-01-2024,South,Home Office,Office Supplies,Notebook Binder,8,5.5,0,No
+1009,13-01-2024,East,Consumer,Technology,4K Monitor,1,320,0.1,No
+1010,14-01-2024,West,Corporate,Furniture,Desk Lamp,2,28,0,No
+1011,15-01-2024,Central,Consumer,Office Supplies,Stapler Heavy Duty,1,18.5,0,No
+1012,16-01-2024,South,Home Office,Technology,Webcam 1080p,2,60,0.05,Yes
+1013,17-01-2024,East,Consumer,Furniture,Bookshelf 4-Tier,1,110,0,No
+1014,18-01-2024,West,Corporate,Office Supplies,Paper Ream A4,15,6.5,0.1,No
+1015,19-01-2024,Central,Consumer,Technology,Noise-Cancel Headphones,1,199.99,0,No
+1016,20-01-2024,South,Corporate,Furniture,Office Sofa,1,650,0.2,No
+1017,21-01-2024,East,Home Office,Office Supplies,Sticky Notes Pack,12,3.2,0,No
+1018,22-01-2024,West,Consumer,Technology,External SSD 1TB,2,110,0.05,No
+1019,23-01-2024,Central,Corporate,Furniture,Filing Cabinet,1,180,0,No
+1020,24-01-2024,South,Consumer,Office Supplies,Scissors Set,4,7.5,0,No
+1021,25-01-2024,East,Corporate,Technology,Wireless Mouse,3,25.5,0,No
+1022,26-01-2024,West,Home Office,Office Supplies,Gel Pens 12-Pack,6,12,0,No
+1023,27-01-2024,Central,Consumer,Furniture,Ergonomic Chair,2,250,0.1,Yes
+1024,28-01-2024,South,Corporate,Technology,Bluetooth Speaker,1,45,0,No
+1025,29-01-2024,East,Consumer,Office Supplies,Mechanical Pencil Set,8,8,0,No
+1026,30-01-2024,West,Home Office,Technology,4K Monitor,2,320,0.15,No
+1027,31-01-2024,Central,Corporate,Furniture,Standing Desk,1,450,0.05,No
+1028,01-02-2024,South,Consumer,Office Supplies,Notebook Binder,5,5.5,0,No
+1029,02-02-2024,East,Home Office,Technology,USB-C Hub,4,35,0,No
+1030,03-02-2024,West,Corporate,Furniture,Desk Lamp,3,28,0,No
+1031,04-02-2024,Central,Consumer,Office Supplies,Paper Ream A4,20,6.5,0.1,No
+1032,05-02-2024,South,Corporate,Technology,Webcam 1080p,1,60,0,No
+1033,06-02-2024,East,Consumer,Furniture,Bookshelf 4-Tier,1,110,0,No
+1034,07-02-2024,West,Home Office,Office Supplies,Stapler Heavy Duty,2,18.5,0,No
+1035,08-02-2024,Central,Corporate,Technology,Noise-Cancel Headphones,2,199.99,0.1,No
+1036,09-02-2024,South,Consumer,Furniture,Ergonomic Chair,1,250,0,Yes
+1037,10-02-2024,East,Home Office,Office Supplies,Sticky Notes Pack,15,3.2,0,No
+1038,11-02-2024,West,Corporate,Technology,External SSD 1TB,1,110,0,No
+1039,12-02-2024,Central,Consumer,Furniture,Filing Cabinet,2,180,0.05,No
+1040,13-02-2024,South,Home Office,Office Supplies,Scissors Set,3,7.5,0,No
+1041,14-02-2024,East,Consumer,Technology,Wireless Mouse,2,25.5,0,No
+1042,15-02-2024,West,Corporate,Office Supplies,Gel Pens 12-Pack,10,12,0.1,No
+1043,16-02-2024,Central,Home Office,Furniture,Office Sofa,1,650,0.15,No
+1044,17-02-2024,South,Consumer,Technology,4K Monitor,1,320,0,No
+1045,18-02-2024,East,Corporate,Office Supplies,Paper Ream A4,12,6.5,0,No
+1046,19-02-2024,West,Consumer,Technology,Bluetooth Speaker,3,45,0,No
+1047,20-02-2024,Central,Home Office,Furniture,Desk Lamp,4,28,0.05,No
+1048,21-02-2024,South,Corporate,Office Supplies,Notebook Binder,6,5.5,0,No
+1049,22-02-2024,East,Consumer,Technology,USB-C Hub,2,35,0,No
+1050,23-02-2024,West,Home Office,Furniture,Standing Desk,1,450,0.1,Yes
+1051,24-02-2024,Central,Corporate,Office Supplies,Mechanical Pencil Set,5,8,0,No
+1052,25-02-2024,South,Consumer,Technology,Noise-Cancel Headphones,1,199.99,0,No
+1053,26-02-2024,East,Home Office,Furniture,Bookshelf 4-Tier,2,110,0.05,No
+1054,27-02-2024,West,Corporate,Office Supplies,Stapler Heavy Duty,3,18.5,0,No
+1055,28-02-2024,Central,Consumer,Technology,External SSD 1TB,1,110,0,No
+1056,29-02-2024,South,Home Office,Furniture,Ergonomic Chair,1,250,0,No
+1057,01-03-2024,East,Corporate,Office Supplies,Sticky Notes Pack,20,3.2,0.1,No
+1058,02-03-2024,West,Consumer,Technology,Webcam 1080p,2,60,0,No
+1059,03-03-2024,Central,Home Office,Furniture,Filing Cabinet,1,180,0,No
+1060,04-03-2024,South,Corporate,Office Supplies,Paper Ream A4,25,6.5,0.15,No
+1061,05-03-2024,East,Consumer,Technology,4K Monitor,1,320,0.05,No
+1062,06-03-2024,West,Home Office,Furniture,Desk Lamp,2,28,0,No
+1063,07-03-2024,Central,Corporate,Office Supplies,Gel Pens 12-Pack,8,12,0,Yes
+1064,08-03-2024,South,Consumer,Technology,Wireless Mouse,5,25.5,0,No
+1065,09-03-2024,East,Home Office,Furniture,Office Sofa,1,650,0.25,No
+1066,10-03-2024,West,Corporate,Office Supplies,Scissors Set,6,7.5,0,No
+1067,11-03-2024,Central,Consumer,Technology,Bluetooth Speaker,2,45,0,No
+1068,12-03-2024,South,Home Office,Furniture,Standing Desk,1,450,0,No
+1069,13-03-2024,East,Corporate,Office Supplies,Notebook Binder,10,5.5,0.05,No
+1070,14-03-2024,West,Consumer,Technology,USB-C Hub,3,35,0,No
+1071,15-03-2024,Central,Home Office,Furniture,Ergonomic Chair,1,250,0,No
+1072,16-03-2024,South,Corporate,Office Supplies,Mechanical Pencil Set,7,8,0,No
+1073,17-03-2024,East,Consumer,Technology,Noise-Cancel Headphones,1,199.99,0.05,No
+1074,18-03-2024,West,Home Office,Furniture,Bookshelf 4-Tier,1,110,0,No
+1075,19-03-2024,Central,Corporate,Office Supplies,Paper Ream A4,18,6.5,0.1,No
+1076,20-03-2024,South,Consumer,Technology,External SSD 1TB,2,110,0,Yes
+1077,21-03-2024,East,Home Office,Furniture,Filing Cabinet,1,180,0,No
+1078,22-03-2024,West,Corporate,Office Supplies,Gel Pens 12-Pack,4,12,0,No
+1079,23-03-2024,Central,Consumer,Technology,Webcam 1080p,3,60,0.05,No
+1080,24-03-2024,South,Home Office,Furniture,Desk Lamp,1,28,0,No
+1081,25-03-2024,East,Corporate,Office Supplies,Stapler Heavy Duty,2,18.5,0,No
+1082,26-03-2024,West,Consumer,Technology,4K Monitor,1,320,0.1,No
+1083,27-03-2024,Central,Home Office,Furniture,Standing Desk,1,450,0.05,No
+1084,28-03-2024,South,Corporate,Office Supplies,Sticky Notes Pack,10,3.2,0,No
+1085,29-03-2024,East,Consumer,Technology,Wireless Mouse,4,25.5,0,No
+1086,30-03-2024,West,Home Office,Furniture,Ergonomic Chair,1,250,0,No
+1087,31-03-2024,Central,Corporate,Office Supplies,Scissors Set,5,7.5,0,No
+1088,01-04-2024,South,Consumer,Technology,Bluetooth Speaker,2,45,0,No
+1089,02-04-2024,East,Home Office,Furniture,Office Sofa,1,650,0.2,Yes
+1090,03-04-2024,West,Corporate,Office Supplies,Notebook Binder,8,5.5,0,No
+1091,04-04-2024,Central,Consumer,Technology,USB-C Hub,2,35,0,No
+1092,05-04-2024,South,Home Office,Furniture,Bookshelf 4-Tier,1,110,0,No
+1093,06-04-2024,East,Corporate,Office Supplies,Paper Ream A4,14,6.5,0.05,No
+1094,07-04-2024,West,Consumer,Technology,Noise-Cancel Headphones,1,199.99,0,No
+1095,08-04-2024,Central,Home Office,Furniture,Desk Lamp,3,28,0,No
+1096,09-04-2024,South,Corporate,Office Supplies,Mechanical Pencil Set,6,8,0,No
+1097,10-04-2024,East,Consumer,Technology,External SSD 1TB,1,110,0,No
+1098,11-04-2024,West,Home Office,Furniture,Filing Cabinet,2,180,0.05,No
+1099,12-04-2024,Central,Corporate,Office Supplies,Gel Pens 12-Pack,5,12,0,No
+1100,13-04-2024,South,Consumer,Technology,Webcam 1080p,1,60,0,No
+1101,14-04-2024,East,Corporate,Technology,,2,25.5,0,No
+1102,15-04-2024,West,,Office Supplies,Paper Ream A4,10,6.5,0,No
+1103,16-04-2024,Central,Consumer,,Ergonomic Chair,1,250,,No
+1104,17-04-2024,,Home Office,Technology,USB-C Hub,3,,0,Yes
+1105,18-04-2024,South,Corporate,Office Supplies,Gel Pens 12-Pack,,12,0,No
+1106,19-04-2024,  east ,corporate,technology,wireless mouse,4,25.5,0,no
+1107,20-04-2024,WEST,Consumer,OFFICE SUPPLIES,Paper Ream A4,5,6.5,0.1,NO
+1108,21-04-2024,Central,HOME OFFICE,furniture,Ergonomic Chair ,1,250,0.05,YES
+1109,22-04-2024,south,Consumer,Technology, Bluetooth Speaker,2,45,0,no
+1110,23-04-2024,East,Corporate,Office Supplies,Notebook Binder,6,5.5,0,N/A
+1111,04/24/2024,West,Consumer,Technology,4K Monitor,1,320,0,No
+1112,2024.04.25,Central,Corporate,Furniture,Desk Lamp,2,28,0,No
+1113,"Apr 26, 2024",South,Home Office,Office Supplies,Stapler Heavy Duty,1,18.5,0,No
+1114,27-04-2024,East,Consumer,Technology,Webcam 1080p,-5,60,0,No
+1115,28-04-2024,West,Corporate,Furniture,Standing Desk,1,-450,0,No
+1116,29-04-2024,Central,Home Office,Technology,External SSD 1TB,2,99999,0,No
+1117,30-04-2024,South,Consumer,Office Supplies,Scissors Set,3,7.5,2.5,No
+1001,05-01-2024,East,Corporate,Technology,Wireless Mouse,4,25.5,0,No
+1001,05-01-2024,East,Corporate,Technology,Wireless Mouse,4,25.5,0,No
+1010,14-01-2024,West,Corporate,Furniture,Desk Lamp,2,28,0,No
+1118,01-05-2024,East,Corporate,Technology,Wireless Mouse,4,$25.5,0%,No
+1119,02-05-2024,West,Consumer,Office Supplies,Gel Pens 12-Pack,10,$12,10%,No
+1120,03-05-2024,Central,Home Office,Furniture,Ergonomic Chair,1,$250,5%,Yes
+1121,04-05-2024,South,Corporate,Technology,USB-C Hub,3,$35,0%,No
+1122,05-05-2024,East,Consumer,Office Supplies,Sticky Notes Pack,15,$3.2,0%,No
